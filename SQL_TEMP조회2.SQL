@@ -1,5 +1,6 @@
 --SQL 작성 : DBeaver 활용 (ORACLE DB)
 --SQL 작성시 빈줄이 없도록 할 것 -에러 발생
+--TABLE이름이 길 경우 약어를 지칭하여 간편하게 사용 가능 
 
 SELECT 
 	 B.AREA_CD
